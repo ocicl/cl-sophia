@@ -1,0 +1,9 @@
+* cl-sophia
+
+Common Lisp high-level API for Sophia key-value storage
+
+|---------+--------------------------------------------------|
+| source  | git:https://github.com/multimethod/cl-sophia.git |
+| commit  | acd9899                                          |
+| systems | cl-sophia                                        |
+|---------+--------------------------------------------------|
