@@ -7,4 +7,4 @@ Common Lisp high-level API for Sophia key-value storage
 | commit  | acd9899                                          |
 | systems | cl-sophia                                        |
 |---------+--------------------------------------------------|
- 
+  
